@@ -44,7 +44,7 @@
 ## 📫 聯絡方式
 
 - Email: vv19950429@gmail.com](https://gitlab.com/jettxu)
-- GitHub: [github.com/jettxu](https://github.com/jettxu)
+- GitHub: [github.com/Jett-Xu](https://github.com/Jett-Xu)
 - 喜歡技術討論與 Side Project 合作交流，歡迎找我聊天 👋
 
 > “成為能影響團隊的工程師，不只是會寫程式，更是能串連人與技術的橋樑。”

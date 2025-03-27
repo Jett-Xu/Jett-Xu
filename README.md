@@ -48,7 +48,7 @@
 
 ## 📫 聯絡方式
 
-- Email: vv19950429@gmail.com](https://gitlab.com/jettxu)
+- Email: vv19950429@gmail.com
 - GitHub: [github.com/Jett-Xu](https://github.com/Jett-Xu)
 - 喜歡技術討論與 Side Project 合作交流，歡迎找我聊天 👋
 
